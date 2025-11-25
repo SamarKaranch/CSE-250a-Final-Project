@@ -1,14 +1,3 @@
-# ---------------------------
-# Install dependencies if needed:
-# ---------------------------
-# pip install torch torchvision
-# pip install gym==0.25.2
-# pip install gym-super-mario-bros==7.4.0
-# pip uninstall nes-py
-# pip install git+https://github.com/Kautenja/nes-py.git
-# pip install matplotlib
-# pip install tqdm
-
 import torch
 import torch.nn as nn
 import torch.optim as optim
