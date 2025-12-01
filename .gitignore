@@ -1,3 +1,6 @@
 /.venv
 gym_super_mario_bros/
 .DS_Store
+__pycache__/
+models/
+models/*
