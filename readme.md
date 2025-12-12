@@ -16,3 +16,5 @@ for conda environments:
 - agent.py
 - agent_nn.py
 - wrappers.py 
+
+![Validation rewards for various learning rates](figures/val_lr.png)
