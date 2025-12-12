@@ -1,4 +1,6 @@
-# Setup Guide
+# It’s-a Me, Super Mario Bros RL Agent! Wahoo!
+
+## Setup Guide
 - Install python version 3.10
 - pip install -r requirements.txt
 - python3.10 test.py
@@ -17,4 +19,5 @@ for conda environments:
 - agent_nn.py
 - wrappers.py 
 
+### Learning Rate Tuning
 ![Validation rewards for various learning rates](figures/val_lr.png)
