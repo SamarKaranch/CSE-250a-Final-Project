@@ -20,4 +20,5 @@ for conda environments:
 - wrappers.py 
 
 ### Learning Rate Tuning
+![Training rewards for various learning rates](figures/train_lr_episodes.png)
 ![Validation rewards for various learning rates](figures/val_lr.png)
