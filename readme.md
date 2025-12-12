@@ -8,9 +8,9 @@ for conda environments:
 
 
 ## Files:
-- train.ipynb   for training agents, validation runs concurrently 
-- plot.py       for plotting figures
-- test_500.py   for testing a model on selected stages
+- train.ipynb     for training agents, validation runs concurrently 
+- plot.py         for plotting figures
+- test_500.ipynb  for testing a model on selected stages
 
 ## DQN implementation:
 - agent.py
